@@ -5,6 +5,7 @@ Criar em Python um pequeno conversor de MarkDown para HTML para os elementos des
 - Cabeçalhos: linhas iniciadas por "# texto", ou "## texto" ou "### texto"
 
 In: # Exemplo
+
 Out: <h1>Exemplo</h1>
 
 - Bold: pedaços de texto entre "**":
