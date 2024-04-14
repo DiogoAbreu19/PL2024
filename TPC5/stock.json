@@ -1,0 +1,62 @@
+[
+    {
+        "cod": "A01",
+        "nome": "Água 0.25L",
+        "quant": 10,
+        "preço": 0.4
+    },
+    {
+        "cod": "A02",
+        "nome": "Água 0.5L",
+        "quant": 8,
+        "preço": 0.7
+    },
+    {
+        "cod": "A03",
+        "nome": "Coca-Cola 33cL",
+        "quant": 6,
+        "preço": 1.2
+    },
+    {
+        "cod": "A04",
+        "nome": "Ice-Tea 0.33cL",
+        "quant": 6,
+        "preço": 1.2
+    },
+    {
+        "cod": "A05",
+        "nome": "Seven-UP 0.33cL",
+        "quant": 6,
+        "preço": 1.2
+    },
+    {
+        "cod": "A06",
+        "nome": "Fanta 0.33cL",
+        "quant": 6,
+        "preço": 1.2
+    },
+    {
+        "cod": "A07",
+        "nome": "Croissant Misto",
+        "quant": 5,
+        "preço": 0.85
+    },
+    {
+        "cod": "A08",
+        "nome": "Brigadeiro de Chocolate",
+        "quant": 7,
+        "preço": 1.5
+    },
+    {
+        "cod": "A09",
+        "nome": "M&M",
+        "quant": 10,
+        "preço": 1
+    },
+    {
+        "cod": "A10",
+        "nome": "Twix",
+        "quant": 10,
+        "preço": 1
+    }
+]
